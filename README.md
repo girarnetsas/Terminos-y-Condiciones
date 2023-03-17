@@ -23,6 +23,7 @@ de internet GirarNET
 Te recomendamos mantenerte al día en el pago de tu servicio para evitar la suspensión o corte del mismo.
 
 ---
+
 <h3 align="left">Pagos</h3>
 <ul>
   <li>Cuenta <b>Ahorros Bancolombia 399-000027-64</b>  :credit_card:</li>
