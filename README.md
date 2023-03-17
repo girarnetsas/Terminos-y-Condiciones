@@ -30,9 +30,9 @@ Te recomendamos mantenerte al día en el pago de tu servicio para evitar la susp
 
 ---
 <h3 align="left"> Atención al Cliente: Recomendaciones - Consejos</h3>
-  <p>Si deseas <b>Atención Personalizada</b> y de primera mano; escríbenos al WhatsApp [+57 3152250620](https://wa.me/573152250620), nuestro **Talento Humano** te atenderá y resolverá tu caso.</p>
+  <p>Si deseas <b>Atención Personalizada</b> y de primera mano; escríbenos al WhatsApp <a href="https://wa.me/573152250620">+57 3152250620</a>, nuestro <b>Talento Humano</b> te atenderá y resolverá tu caso.</p>
   <ul>
     <li>Te recomendamos desconectar el router Wi-Fi si se presentan fuertes lluvias y hay riesgo de descargas eléctricas que pueden quemar tus equipos.
     <li>Nunca presiones el botón Reset porque pierdes la configuración de tu Wi-Fi y perderás la conexión.\
-        Si lo haces, comunícate en el Whatsapp 315 225 0620 para solicitarle a nuestro **Equipo TI** la **Reconexión del Servicio**.</li>
+        Si lo haces, comunícate en el Whatsapp 315 225 0620 para solicitarle a nuestro <b>Equipo TI</b> la <b>Reconexión del Servicio</b> .</li>
     <li>No desconectes el cable de fibra de tu Router wi-fi, pues desconectas la señal de internet y perderás la conexión.</li>
