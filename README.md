@@ -29,6 +29,7 @@ Te recomendamos mantenerte al día en el pago de tu servicio para evitar la susp
   <li>Cuenta <b>Ahorros Bancolombia 399-000027-64</b>  :credit_card:</li>
   <li>Para solicitar la <b>Reconexión de tu Servicio</b> reporta tu pago en la linea de <b>WhatsApp</b> :telephone_receiver:<a href="https://wa.me/573152250620">+57 3152250620</a> 
 </ul>
+
 ---
     
 <h3 align="left"> Atención al Cliente: Recomendaciones - Consejos</h3>
