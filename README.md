@@ -38,5 +38,5 @@ Te recomendamos mantenerte al día en el pago de tu servicio para evitar la susp
   <li>Te recomendamos desconectar el router Wi-Fi si se presentan fuertes lluvias y hay riesgo de descargas eléctricas que pueden quemar tus equipos.
   <li>Nunca presiones el botón Reset porque pierdes la configuración de tu Wi-Fi y perderás la conexión.
         Si lo haces, comunícate en el Whatsapp 315 225 0620 para solicitarle a nuestro <b>Equipo TI</b> la <b>Reconexión del Servicio</b> .</li>
-  <li>No desconectes el cable de fibra de tu Router wi-fi, pues desconectas la señal de internet y perderás la conexión.</li>
+  <li>No desconectes el cable de fibra de tu Router Wi-Fi, pues desconectas la señal de internet y perderás la conexión.</li>
 </ul>
