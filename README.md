@@ -2,14 +2,13 @@
   <img src="https://drive.google.com/uc?export=view&id=1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb" alt="drawing" width="500"/>
 </p>
 
-<h1 align="center">TÉRMINOS Y CONDICIONES</h1>
+<h1 align="center">TÉRMINOS Y CONDICIONES DEL SERVICIO</h1>
 
 
 El presente documento contiene las condiciones generales de la prestación del servicio
 de internet GirarNET
-Términos y condiciones del servicio
-• El servicio de Internet GirarNET es postpago, esto quiere decir que manejamos ciclos
-de facturación fija mensual
+
+• El servicio de Internet GirarNET es postpago, esto quiere decir que manejamos ciclos de facturación fija mensual
 • El día 1 de cada mes te llegará la factura del servicio por el mes que termina.
 • Debes realizar el pago entre el 1° y el día 12 del mismo mes. Así evitas que tu servicio
 sea suspendido.
