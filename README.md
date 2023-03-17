@@ -29,6 +29,7 @@ Te recomendamos mantenerte al día en el pago de tu servicio para evitar la susp
   <li>Para solicitar la <b>Reconexión de tu Servicio</b> reporta tu pago en la linea de <b>WhatsApp</b> :telephone_receiver:<a href="https://wa.me/573152250620">+57 3152250620</a> 
 
 ---
+    
 <h3 align="left"> Atención al Cliente: Recomendaciones - Consejos</h3>
   <p>Si deseas <b>Atención Personalizada</b> y de primera mano; escríbenos al WhatsApp :telephone_receiver: <a href="https://wa.me/573152250620">+57 3152250620</a>, nuestro <b>Talento Humano</b> te atenderá y resolverá el caso.</p>
   <ul>
