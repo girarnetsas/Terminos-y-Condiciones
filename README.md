@@ -22,13 +22,13 @@ de internet GirarNET
 
 Te recomendamos mantenerte al día en el pago de tu servicio para evitar la suspensión o corte del mismo.
 
-<h4 align="center">Pagos y Atención al Cliente</h4>
+<h3 align="left">Pagos y Atención al Cliente</h3>
 
 - :credit_card: **Cuenta de Ahorros Bancolombia 399000027-64**  
 - Para solicitar la **Reconexión de tu Servicio** reporta tu pago en el Whatsapp 315 225 0620
 0620
 
-<h4 align="center">Recomendaciones / consejos</h4>
+<h3 align="left">Recomendaciones / consejos</h3>
 
 - Te recomendamos desconectar el router Wi-Fi si se presentan fuertes lluvias y hay riesgo de descargas eléctricas que pueden quemar tus equipos.
 - Nunca presiones el botón Reset porque pierdes la configuración de tu Wi-Fi y perderás la conexión.\
